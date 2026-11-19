@@ -1,0 +1,9 @@
+# reflective 1b
+
+I "find" cammand is a useful tools because it was easier for me to locate a files and check what I was looking for. I could use it to search for txt files by their names and also check files beased on their size. For example, I used find . -name "*.txt" to list all the txt files in the Gutenberg folder. This helped me understand how to search for files more easily without having to open each folder manually.
+
+If let's said someone had placed suspicious files on the server. We can use system administrators to find suspicious files in the server system. The find command can be used to locate files by name, size or the time changed the file. The grep command can search for inside the files for suspicious words or information. These tools can save time during the investigation and do not need to find every file manually.
+
+Scipting can make search tasks easier we can also save time from running each cmd. This also can reduce chance of typing a wrong word. We can put cmd such as find and grep into one scipt. Once we run the script it will automatically seaches. Especially when you have many files and you want to find the wanted files.
+
+When entering the earch words and folder paths. Sometimes if I use grep to find for the word, it can't be found. Also for find, if I search for a wrong path, it will not get the result that I want. This helped me the understand the importance of checking the directory before running a cmd.
